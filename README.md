@@ -1,6 +1,7 @@
 Hi My name is Vanshaj Tiwari
 Software Developer
-Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunities. DSA || Web development
+Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunities.
+DSA || Web development
 
 🌍  I'm based in India
 ✉️  You can contact me at vanshajtiwari62@gmail.com
@@ -10,16 +11,4 @@ Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunitie
 
 
 Skills
-C Python JavaScript Java HTML5 React CSS3 Bootstrap
-
-Socials
-   
-
-Badges
-My GitHub Stats
-
-
-
-GitHub Commits Graph
-
-Top Languages
+C,Python,JavaScript,Java,HTML5,React,CSS3,Bootstrap
