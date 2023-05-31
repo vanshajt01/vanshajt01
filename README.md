@@ -4,10 +4,15 @@ Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunitie
 DSA || Web development
 
 🌍  I'm based in India
+
 ✉️  You can contact me at vanshajtiwari62@gmail.com
+
 🧠  I'm learning Machine Learning
+
 🤝  I'm open to collaborating on Web development,Game development,Software development
+
 ⚡  You can also contact me on Instagram & twitter
+
 
 
 Skills
