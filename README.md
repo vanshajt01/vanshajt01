@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi My name is Vanshaj Tiwari
+Software Developer
+Hey!✌️ My name is Vanshaj Tiwari. Seeing World with full of new Opportunities. DSA || Web development
 
-<!--
-**vanshajt01/vanshajt01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌍  I'm based in India
+✉️  You can contact me at vanshajtiwari62@gmail.com
+🧠  I'm learning Machine Learning
+🤝  I'm open to collaborating on Web development,Game development,Software development
+⚡  You can also contact me on Instagram & twitter
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+C Python JavaScript Java HTML5 React CSS3 Bootstrap
+
+Socials
+   
+
+Badges
+My GitHub Stats
+
+
+
+GitHub Commits Graph
+
+Top Languages
